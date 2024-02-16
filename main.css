@@ -114,7 +114,7 @@ progress {
   background-color: #fff;
 }
 /* cursor style */
-.cursor{
+/* .cursor{
   position: fixed;
   width: 40px;
   height: 40px;
@@ -126,14 +126,14 @@ progress {
   transform-origin: center center;
   pointer-events: none;
   z-index: 1000;
-}
-.grow , .grow-small{
+} */
+/* .grow , .grow-small{
   transform: scale(3);
-  background: #FFF;
-  mix-blend-mode: difference;
+   background: #FFF;
+  /*mix-blend-mode: difference; 
 }
 .grow-small{
   transform: scale(2.5);
-}
+} */
 
 /*# sourceMappingURL=main.css.map*/
